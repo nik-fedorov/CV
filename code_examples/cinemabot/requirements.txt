@@ -1,0 +1,5 @@
+aiogram
+aiohttp
+pypika
+bs4
+Pillow
