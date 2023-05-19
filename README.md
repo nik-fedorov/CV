@@ -5,7 +5,9 @@
 ## Контакты
 
 **Телефон:** 8 (929) 820-43-28
+
 **e-mail:** nik-fedorov-work@yandex.ru
+
 **telegram:** @f\_nikitaa
 
 ## Желаемая должность
